@@ -10,4 +10,5 @@ A Python application to provide stats on a DOTA2 replay file.
 Usage: python main.py /Users/PATH_TO_REPLY/12345.dem
 
 Output:
+
 ![Graph](https://github.com/markdessain/dota2-replay/blob/master/Screenshot%202014-01-27%2000.42.51.png?raw=true)
